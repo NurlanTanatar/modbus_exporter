@@ -14,7 +14,7 @@ This Go application retrieves data from a Modbus device, specifically a PLC (Pro
 1. Clone the repository:
 
    ```shell
-   git clone 
+   git clone github.com/NurlanTanatar/modbus_exporter
    ```
 2. Build the application:
 
@@ -52,5 +52,3 @@ This Go application retrieves data from a Modbus device, specifically a PLC (Pro
 - [ ] Add unit tests to ensure the correctness and reliability of the code.
 - [ ] Provide a more detailed explanation of the Modbus data retrieval process in the README, including any specific Modbus libraries or tools used.
 - [ ] Consider adding additional documentation on how to set up and configure Prometheus and Prometheus Pushgateway for monitoring and analysis.
-
-Feel free to customize the TODO section with specific tasks relevant to your project's needs.
